@@ -28,7 +28,7 @@
 		<td align="center"><img width="540" height="175" src="poongImage1.png"><br><img width="540" height="175" src="poongImage2.gif"</td>
 	</tr>
 	<tr>
-		<td align="center" width="540">
+		<td align="center" valign="top" width="540">
 	This was probably one of the more fun times I've had programming in recent years. The 
 	code itself is by no means hard to create nor is there a complex algorithm or anything 
 	of the sorts. I whooped it up in about 20-30 minutes, I had a big deadline on making an
@@ -44,7 +44,7 @@
 	as there are a lot of user enhancements to be made and not a lot of documentation
 	explaining the proper ways to use it. 
 		</td>
-		<td align="center" width="540">
+		<td align="center" valign="top" width="540">
 	Poong was interesting to me more as a joke, I learned a lot more about what you can do with
 	the C# command line from this project however. It is definitely by no means finished, the ball
 	can bounce, you can move your paddle, but there isn't a game loop implemented nor an enemy paddle.
