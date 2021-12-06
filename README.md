@@ -32,17 +32,10 @@
 	This was probably one of the more fun times I've had programming in recent years. The 
 	code itself is by no means hard to create nor is there a complex algorithm or anything 
 	of the sorts. I whooped it up in about 20-30 minutes, I had a big deadline on making an
-	application that can read faulty Shopify websites. All it really does is constantly check 
-	for a new product added behind the scenes and depending on how you set it up it will add
-	the variant of the item you type in to your cart on that website and open th e appropriate
-	browser. People might misinterpret this as making a bot to buy something when it drops but
-	that is by no means what it is nor what it is intended for. A lot of newly setup Shopify 
-	websites have their '/products.json' endpoint able to be accessed by anyone, so in my case
-	all I am doing is looking at this and when a new entry gets added go to the page. It does 
-	nothing like buying it for you or anything like that as I don't want an application of 
-	mine to have any part in handling money. I still don't consider this one fully finished 
-	as there are a lot of user enhancements to be made and not a lot of documentation
-	explaining the proper ways to use it. 
+	application that can read faulty Shopify websites. People might misinterpret this as making 
+	a bot to buy something when it drops but that is by no means what it is nor what it is 
+	intended for. I still don't consider this one fully finished as there are a lot of user 
+	enhancements to be made and not a lot of documentation explaining the proper ways to use it. 
 		</td>
 		<td align="center" valign="top" width="540">
 	Poong was interesting to me more as a joke, I learned a lot more about what you can do with
