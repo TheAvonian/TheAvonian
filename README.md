@@ -9,6 +9,8 @@
 
 <hr>
 <p align="center">
-  <img width="310" height="150" src="https://github-readme-stats.vercel.app/api?username=theavonian&show_icons=true&theme=material-palenight&count_private=true&hide=stars,prs,issues,contribs&border_radius=50&hide_border=true&include_all_commits=true&hide_rank=true&custom_title=Aven's&nbsp;Stats">
-  <img width="310" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theavonian&layout=compact&theme=material-palenight&hide_border=true&border_radius=50">
+  <img width="360" height="200" src="https://raw.githubusercontent.com/TheAvonian/github-stats/55b8a1c608808d456905d257317e18e6324b4a75/generated/overview.svg?token=AHAETFU2IG6U77IGMQF7LGTDELAIM#gh-dark-mode-only">
+  <img width="360" height="200" src="https://raw.githubusercontent.com/TheAvonian/github-stats/55b8a1c608808d456905d257317e18e6324b4a75/generated/overview.svg?token=AHAETFU2IG6U77IGMQF7LGTDELAIM#gh-light-mode-only">
+  <img width="360" height="200" src="https://raw.githubusercontent.com/TheAvonian/github-stats/55b8a1c608808d456905d257317e18e6324b4a75/generated/languages.svg?token=AHAETFTPN7AVCKZPTRHOQOTDEK7NS#gh-dark-mode-only">
+  <img width="360" height="200" src="https://raw.githubusercontent.com/TheAvonian/github-stats/55b8a1c608808d456905d257317e18e6324b4a75/generated/languages.svg?token=AHAETFTPN7AVCKZPTRHOQOTDEK7NS#gh-light-mode-only">
 </p>
