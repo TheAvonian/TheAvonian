@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  I am Aven, a game programmer and software developer that spends most of my time off on side quest projects.
+  I am Aven, a software engineer that spends most of my time off on side quest projects.
 </p>
 <br>
 
